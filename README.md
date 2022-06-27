@@ -12,7 +12,7 @@
         <header>
             <div class="container">
                 <div class="icon">
-                    <img src="YUKI KOMINE1/yukikomine.png" alt="小峰悠樹のアイコンです" width="120" height="120">
+                    <img src="YUKI KOMINE1/yukikomine.png" alt="小峰悠樹" width="120" height="120">
                 </div>
                 <div class="info">
                     <h1>小峰悠樹</h1>
@@ -22,12 +22,12 @@
                     <ul>
                         <li>
                             <a href="https://twitter.com/McgarretSteave">
-                                <img src="img/twitter.png" alt="ツイッターのアイコンです" width="20" height="20">
+                                <img src="img/twitter.png" alt="私のツイッターアカウントです" width="20" height="20">
                             </a>
                         </li>
                         <li>
                             <a href="https://www.instagram.com/ys_brave.007/">
-                                <img src="img/insta.png" alt="インスタグラムのアイコンです" width="20" height="20">
+                                <img src="img/insta.png" alt="私のインスタグラムアカウントです" width="20" height="20">
                             </a>
                         </li>
                     </ul>
@@ -38,7 +38,7 @@
         <!-- これは見出しです -->
             <h2>PORTOFOLIO</h2>
             <section>
-                <img src="YUKI KOMINE1/中央大学アイコン.png" alt="中央大学の画像です"　width="400" height="260">
+                <img src="YUKI KOMINE1/中央大学アイコン.png" alt="中央大学"　width="400" height="260">
                 <a href="https://www.chuo-u.ac.jp">
                     <h3>所属先</h3>
                 </a>
